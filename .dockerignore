@@ -1,0 +1,8 @@
+README.md
+.gitignore
+.git
+tmp/*
+/docker
+.dockerignore
+/config/database.yml.example
+/config/database.yml
